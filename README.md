@@ -1,0 +1,2 @@
+# myJavaScripProject
+Learning javascript 
